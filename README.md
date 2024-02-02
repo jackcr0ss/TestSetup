@@ -8,3 +8,4 @@ To test your code:
 
 This will run the python code. 
 
+Download code editor here: https://code.visualstudio.com/download
